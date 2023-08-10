@@ -1,0 +1,6 @@
+User-agent: *
+Sitemap: https://inuel-veronik.github.io/menageblog/sitemap.xml
+Disallow: /ghost/
+Disallow: /p/
+Disallow: /email/
+Disallow: /r/
